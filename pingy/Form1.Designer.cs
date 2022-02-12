@@ -70,7 +70,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(234, 40);
             this.label1.TabIndex = 3;
-            this.label1.Text = "PING\'a\'SITE";
+            this.label1.Text = "PING-A-SITE";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox2
